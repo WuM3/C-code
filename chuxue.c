@@ -14,7 +14,7 @@
 //#include <stdio.h>
 //int main()
 //{
-//	printf("¹þ¹þ");
+//	printf("Â¹Ã¾Â¹Ã¾");
 //	return 0;
 //}
 //#include <stdio.h>
@@ -45,9 +45,9 @@
 //{
 //	int r;
 //	float C;
-//	printf("ÇëÊäÈë°ë¾¶r=");
+//	printf("Ã‡Ã«ÃŠÃ¤ÃˆÃ«Â°Ã«Â¾Â¶r=");
 //	scanf("%d", &r);
 //	C = 2 * 3.14 * r;
-//	printf("ÖÜ³¤C=%f\n",C);
+//	printf("Ã–ÃœÂ³Â¤C=%f\n",C);
 //	return 0;
 //}
