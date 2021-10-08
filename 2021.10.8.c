@@ -4,9 +4,9 @@ int main()
 {
 	int r;
 	float C;
-	printf("������뾶r=");
+	printf("ÇëÊäÈë°ë¾¶r=");
 	scanf("%d", &r);
 	C = 2 * 3.14 * r;
-	printf("�ܳ�C=%f",C);
+	printf("ÖÜ³¤C=%f",C);
 	return 0;
 }
